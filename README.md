@@ -52,7 +52,7 @@
   <h1>Lista</h1>
 
   <ul>
-    <li><a href="https://github.com/dite3010 target="_blank" class="botao">Botão 2</a></li>
+    <li><a href="https://docs.google.com/document/d/10qFek79eAiQ9ekCjWfDNaD2bfO-G7oHgPiMM4t-X9t8/edit?tab=t.0 target="_blank" class="botao">Botão 2</a></li>
     <li><a href= "https://docs.google.com/document/d/1PdqfsdbQQSzkvoRx7UwE9C8zmyif-cF9fWmbqo3adY0/edit?tab=t.0target="_blank" class="botao">Botão 2</a></li>
   </ul>
 
