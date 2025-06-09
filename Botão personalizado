@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista com Botões Rosa Bebê</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        h1 {
+            font-size: 96px; /* Tamanho maior para o título */
+            margin-bottom: 60px;
+            color: #333;
+            text-align: center;
+            font-weight: bold;
+            text-transform: uppercase; /* Torna o texto maiúsculo */
+        }
+
+        .lista-botoes {
+            display: flex; /* Flexbox para alinhamento horizontal */
+            gap: 40px; /* Maior espaço entre os botões */
+        }
+
+        .botao-rgb {
+            padding: 40px 80px; /* Botões bem grandes */
+            font-size: 36px; /* Tamanho de fonte grande */
+            background-color: #FFB6C1; /* Cor rosa bebê (light pink) */
+            color: white; /* Texto branco */
+            text-align: center;
+            border: none; /* Remove a borda */
+            border-radius: 10px;
+            transition: opacity 0.3s; /* Efeito de transição */
+            min-width: 250px; /* Garantir que os botões fiquem grandes o suficiente */
+        }
+
+        .botao-rgb:hover {
+            opacity: 0.8; /* Efeito de hover para suavizar */
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Lista</h1> <!-- Título bem maior "Lista" -->
+
+    <div class="lista-botoes">
+        <button class="botao-rgb">Botão 1</button>
+        <button class="botao-rgb">Botão 2</button>
+    </div>
+
+</body>
+</html>
+
