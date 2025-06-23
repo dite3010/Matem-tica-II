@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alinhamento de Texto</title>
+    <style>
+        .esquerda {
+            text-align: left;
+        }
+        .direita {
+            text-align: right;
+        }
+        .centralizado {
+            text-align: center;
+        }
+        .justificado {
+            text-align: justify;
+        }
+    </style>
+</head>
+<body>
+    <div class="esquerda">
+        <p>Ingredientes Receita de Brownie
+            160 g de chocolate 60% cacau (cerca de 1 xícara [chá] picado)
+            160 g de chocolate branco (cerca de 1 xícara [chá] picado)
+            200 g de manteiga
+            3 ovos
+            1½ xícara (chá) de açúcar
+            2 xícaras (chá) de farinha de trigo
+            1 colher (sopa) de fermento em pó
+            </p>
+    </div>
+    
+    <div class="direita">
+        <p>Ingredientes Receita de bolo de chocolate
+            Para a massa de bolo
+            
+            2 ovos
+            1 e 1/2 xícara chá de açúcar
+            2 xícaras chá de farinha de trigo
+            1 xícara chá de chocolate em pó ou achocolatado
+            2 colheres de sopa de Margarina Doriana com Sal
+            1 colher sopa de fermento em pó
+            1 pitada de sal
+            1 xícara chá de leite
+            Para a cobertura de chocolate
+            
+            2 xícaras chá de leite
+            1 xícara chá de chocolate em pó
+            1 colher sopa de Margarina Doriana com Sal
+            1 xícara chá de açúcar</p>
+    </div>
+    
+    <div class="centralizado">
+        <p>Com o GLOSS LIPCHILLI, Fran supera todos os limites! O produto traz uma fórmula inovadora, com tom delicado e efeito imediato de aumento labial. Isso mesmo! O aumento dos lábios e a hidratação são notados na hora da aplicação!
+            Pincel em formato de flecha, que dispensa a quantidade ideal do produto nos lábios; Ácido hialurônico e Vitamina E mantém a hidratação e protegem contra a oxidação labial. Diferenciais: Manteiga de Karité e D-pantenol mantém a hidratação labial e suavizam a aparência de lábios ressecados; Aplicador em formato de flecha que permite aplicação precisa; Produto vegano; Sem glúten; Sem parabenos; Sem fragrância; Não testado em animais.        </p>
+    </div>
+    
+    <div class="justificado">
+        <p>O LipHoney chegou pra ser o seu novo companheiro inseparável, pronto pra te acompanhar em qualquer lugar! O meu novo gloss de mel é perfeito para quem quer lábios super hidratados, com aquele brilho que a gente ama e com o gostinho e aroma de mel, que vai despertar deliciosas sensações. Extrato de mel e Vitamina E; Hidratação prolongada e ação antioxidante; Com aroma de mel; Ponteira Chubby, proporciona maior distribuição de produto nos lábios;
+
+            HIPOALERGÊNICO; DERMATOLOGICAMENTE TESTADO
+            
+            SELOS: CRUELTY FREE; SEM PARABENOS; SEM GLÚTEN.</p>
+    </div>
+</body>
+</html>
